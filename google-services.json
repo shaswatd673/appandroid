@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "434342477482",
+    "firebase_url": "https://realtime-865bd.firebaseio.com",
+    "project_id": "realtime-865bd",
+    "storage_bucket": "realtime-865bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434342477482:android:0cf7170accb81b75",
+        "android_client_info": {
+          "package_name": "com.example.shaswat.androidpresencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434342477482-jsagbb82vhae80l6qoocb4k49257q8au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIj7tk8ClqjCkfR6J7FwAAl2FFtIglKGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
